@@ -1,3 +1,5 @@
+#这个文件为最新, 使用方法 python Main-V2.py
+# 优化了截图方式,性能提升
 
 from turtle import right, width
 import cv2
